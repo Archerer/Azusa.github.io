@@ -1,6 +1,5 @@
-- [:house: 首页](/README)
-- :robot: AI Agent 导航
-  - [什么是 AI Agent](/md/ai-agent/what-is-ai-agent.md)
-  - [智能体对话设计](/md/ai-agent/conversation-design.md)
-  - [工具调用与工作流](/md/ai-agent/tools-and-workflow.md)
-  - [落地一个 Agent 页面](/md/ai-agent/shipping-an-agent-page.md)
+- 文档首页
+  - [README](README.md)
+
+- 业务页面
+  - <a href="./app/chat.html" target="_self">AI 对话页</a>
